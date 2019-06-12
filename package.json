@@ -1,0 +1,24 @@
+{
+  "name": "nuxt-app",
+  "version": "1.0.0",
+  "description": "My delightful Nuxt.js project",
+  "author": "snk1004",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cross-env": "^5.2.0",
+    "element-ui": "^2.4.11",
+    "nuxt": "^2.4.0",
+    "sass-loader": "^7.1.0",
+    "vuex": "^3.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
